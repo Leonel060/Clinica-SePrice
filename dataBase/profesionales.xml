@@ -1,0 +1,34 @@
+<profesionales>
+  <profesional>
+    <id>1</id>
+    <tipo>Profesional</tipo>
+    <activo>Activo</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+  </profesional>
+  <profesional>
+    <id>2</id>
+    <tipo>Profesional</tipo>
+    <activo>Inactivo</activo>
+    <nombre>María</nombre>
+    <apellido>Castillo</apellido>
+    <dni>12345679</dni>
+    <telefono>123456789</telefono>
+    <email>maria@example.com</email>
+  </profesional>
+  <profesional>
+    <id>3</id>
+    <tipo>Profesional</tipo>
+    <activo>Activo</activo>
+    <nombre>Marcos</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345679</dni>
+    <telefono>123456789</telefono>
+    <email>xxx@example.com</email>
+    <estado>Activo</estado>
+  </profesional>
+  
+</profesionales>

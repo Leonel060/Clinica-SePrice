@@ -1,0 +1,24 @@
+.botonSalir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.cajaSalir{
+    font-family: 'Lexend', sans-serif;
+    width: 200px;
+    height: 200x;
+    margin-top: 50px;
+    padding: 14px;
+    color: black;
+    background-color: #cddcf8;
+    border-radius: 10px;
+    border: 2px solid #7687E1;
+}
+.cajaSalir:hover{
+    background-color: #7687E1;
+    border: none;
+
+
+}

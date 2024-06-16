@@ -1,0 +1,134 @@
+<pacientes>
+  <paciente>
+    <id>1</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>2</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+  <paciente>
+    <id>3</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>4</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+  <paciente>
+    <id>5</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>6</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+  <paciente>
+    <id>7</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>8</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+  <paciente>
+    <id>9</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>10</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+  <paciente>
+    <id>11</id>
+    <tipo>Paciente</tipo>
+    <activo>true</activo>
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <dni>12345678</dni>
+    <telefono>123456789</telefono>
+    <email>juan@example.com</email>
+    <cobertura>Obra Social X</cobertura>
+  </paciente>
+  <paciente>
+    <id>12</id>
+    <tipo>Paciente</tipo>
+    <activo>false</activo>
+    <nombre>María</nombre>
+    <apellido>Gómez</apellido>
+    <dni>87654321</dni>
+    <telefono>987654321</telefono>
+    <email>maria@example.com</email>
+    <cobertura>Obra Social Y</cobertura>
+  </paciente>
+</pacientes>
